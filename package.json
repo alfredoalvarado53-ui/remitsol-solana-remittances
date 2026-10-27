@@ -1,0 +1,12 @@
+{
+  "name": "remitsol-solana-remittances",
+  "version": "1.0.0",
+  "description": "Zero-fee cross-border streaming remittances on Solana for the US-Mexico corridor",
+  "main": "index.js",
+  "scripts": {
+    "test": "anchor test"
+  },
+  "keywords": ["solana", "remittances", "usdc", "mexico", "superteam"],
+  "author": "alfredoalvarado53-ui",
+  "license": "Apache-2.0"
+}
